@@ -1,0 +1,29 @@
+// Colors
+$white: #ffffff;
+$black: #000000;
+
+$tundora:     #4b4b4b;
+$silver-chalice: #a9a9a9;
+$athens-gray: #eef2f4;
+$wild-sand: #f6f6f6;
+
+$blaze-orange: #ff6d00;
+
+// Sizes
+$base-font-size: 14px;
+
+$breakpoints: (
+  "phone"       : 400px,
+  "phone-wide"  : 480px,
+  "phablet"     : 560px,
+  "tablet-small": 640px,
+  "tablet"      : 768px,
+  "tablet-wide" : 1024px,
+  "desktop"     : 1248px,
+  "desktop-wide": 1440px
+);
+
+$content-size: 1140px;
+
+// Fonts
+$main-font: 'Open Sans', Arial, sans-serif;
